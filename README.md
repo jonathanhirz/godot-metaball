@@ -1,4 +1,4 @@
-#godot 3.1 metaball shader example
+# godot 3.1 metaball shader example
 
 ![godot-metaball](/screenshot.png?raw=true "godot-metaball")
 
